@@ -1,0 +1,12 @@
+[Default Applications]
+text/html=microsoft-edge.desktop
+x-scheme-handler/http=microsoft-edge.desktop
+x-scheme-handler/https=microsoft-edge.desktop
+x-scheme-handler/about=microsoft-edge.desktop
+x-scheme-handler/unknown=microsoft-edge.desktop
+x-scheme-handler/mailto=microsoft-edge.desktop
+x-scheme-handler/codex=chatgpt.desktop
+application/json=codium.desktop
+
+[Added Associations]
+application/json=codium.desktop;

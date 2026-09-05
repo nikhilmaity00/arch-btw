@@ -1,1 +1,7 @@
 config/hypr/*.omasettings.bak
+config/**/*.bak
+**/hosts.yml
+**/credentials.json
+**/privateKey.pem
+*.pem
+*.key

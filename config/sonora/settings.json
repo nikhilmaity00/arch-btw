@@ -1,0 +1,1640 @@
+{
+  "version": 1,
+  "volume": 0.7,
+  "normalisation": false,
+  "gapless": true,
+  "lyrics_for_local_files": true,
+  "karaoke_lyrics": true,
+  "romanized_lyrics": true,
+  "panel_lyrics_scale": 1.0,
+  "fullscreen_lyrics_scale": 1.0,
+  "romanization_scripts": {
+    "japanese": true,
+    "chinese": true,
+    "korean": true,
+    "cyrillic": false,
+    "greek": false,
+    "arabic": false,
+    "other": false
+  },
+  "adaptive_menu": false,
+  "check_updates": false,
+  "close_to_tray": false,
+  "sidebar_width": 195.0,
+  "sidebar_open": true,
+  "sidebar_right_width": 254.0,
+  "sidebar_right_open": true,
+  "sidebar_right_tab": "queue",
+  "shuffle": false,
+  "repeat": "off",
+  "radio": false,
+  "language": "auto",
+  "font": "auto",
+  "provider": "youtube",
+  "startup": "home",
+  "tables": {},
+  "sorting": {},
+  "views": {},
+  "resume": {
+    "provider": "youtube",
+    "position": 31.47,
+    "origin": {
+      "whence": "playlist",
+      "id": "RDCLAK5uy_nBE4bLuBHUXWZrF59ZrkPEToKt8M_I3Vc",
+      "name": "Coffee Shop Blend"
+    },
+    "current": {
+      "id": "chYvAR2sfmM",
+      "name": "Madwoman",
+      "artists": "Laufey",
+      "credited": [
+        {
+          "name": "Laufey",
+          "id": "UCJtROTPxo3qnEzww8JyDxuA"
+        }
+      ],
+      "album": "A Matter of Time: The Final Hour",
+      "album_id": "MPREb_nqaJIQdfN2M",
+      "cover": "https://i.ytimg.com/vi/yNa8jP4zoJo/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nAjt-jTQOVDGNKZrHV24S9_MCq8g",
+      "seconds": 240.0,
+      "explicit": false
+    },
+    "upcoming": [
+      {
+        "id": "f9fqe_VvWtU",
+        "name": "Sincerely",
+        "artists": "Haruomi Hosono",
+        "credited": [
+          {
+            "name": "Haruomi Hosono",
+            "id": "UCNWPRMK0ciGFGLAuwyR_dgg"
+          }
+        ],
+        "album": "Sincerely",
+        "album_id": "MPREb_XhFeEgUHMnw",
+        "cover": "https://yt3.googleusercontent.com/_lAR-xYR8HP_AX-OUpd00ZbI3p_GZuK7d7g9bHvOM_dFBVwkYmbDQsRWBT3Os1IH6a9QBh-vuquPcfhVZA=w120-h120-l90-rj",
+        "seconds": 113.0,
+        "explicit": false
+      },
+      {
+        "id": "Mk2f1K5oD1g",
+        "name": "Look To Him (Official Video)",
+        "artists": "Greentea Peng",
+        "credited": [
+          {
+            "name": "Greentea Peng",
+            "id": "UCLi9BEXTwUeCdrp9Mt0Oxbg"
+          }
+        ],
+        "album": "Look To Him",
+        "album_id": "MPREb_k31lHakZbfr",
+        "cover": "https://i.ytimg.com/vi/ekAsG_p2jM4/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l6Li16dTw2plAzNmQROApDmB6q5Q",
+        "seconds": 252.0,
+        "explicit": false
+      },
+      {
+        "id": "4MEWOGc0vGU",
+        "name": "Out of My Head (Official Video)",
+        "artists": "First Aid Kit",
+        "credited": [
+          {
+            "name": "First Aid Kit",
+            "id": "UC5Ziwoo7xz2i-vKsgKcm-kQ"
+          }
+        ],
+        "album": "Palomino",
+        "album_id": "MPREb_6fPJcmzUirq",
+        "cover": "https://i.ytimg.com/vi/PmSwUCdQQC4/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kifKU7GOURTBImWs2_kSzWuvHWsA",
+        "seconds": 214.0,
+        "explicit": false
+      },
+      {
+        "id": "4u5HuYdUQdQ",
+        "name": "Don't Fade",
+        "artists": "Vance Joy",
+        "credited": [
+          {
+            "name": "Vance Joy",
+            "id": "UCwNoBkSn4w8l4olCKDCTplQ"
+          }
+        ],
+        "album": "In Our Own Sweet Time",
+        "album_id": "MPREb_PgKvZsHjNXA",
+        "cover": "https://i.ytimg.com/vi/EWe595qZEhw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3m_WbJI92DPWCjP7P-mL5xBWBnvOw",
+        "seconds": 191.0,
+        "explicit": false
+      },
+      {
+        "id": "VoLpYCa0XkE",
+        "name": "Meant to Be",
+        "artists": "City and Colour",
+        "credited": [
+          {
+            "name": "City and Colour",
+            "id": "UC9rTPiSAfswoLoqCJThN1Zg"
+          }
+        ],
+        "album": "Meant to Be",
+        "album_id": "MPREb_5AotmNmpW37",
+        "cover": "https://i.ytimg.com/vi/xVfxhAxX68w/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kAE0aXfLtklXtIBm42e3cFoxzCIw",
+        "seconds": 258.0,
+        "explicit": false
+      },
+      {
+        "id": "YZaEqf-se90",
+        "name": "Your Other Life",
+        "artists": "Lord Huron",
+        "credited": [
+          {
+            "name": "Lord Huron",
+            "id": "UCHIqmk90GKurdVSG5cf-sFQ"
+          }
+        ],
+        "album": "Long Lost (Deluxe Edition)",
+        "album_id": "MPREb_5z9s0xEP5bo",
+        "cover": "https://i.ytimg.com/vi/H-zVEnHB3_g/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mp-SNM46uMeqWCLdhCwIh0CGlXuw",
+        "seconds": 281.0,
+        "explicit": false
+      },
+      {
+        "id": "WHga2thEkOc",
+        "name": "Swan Upon Leda (Official Lyric Video)",
+        "artists": "Hozier",
+        "credited": [
+          {
+            "name": "Hozier",
+            "id": "UCA3Zs9A2IeetfGT3Omi9ivw"
+          }
+        ],
+        "album": "Unreal Unearth: Unending",
+        "album_id": "MPREb_qsDK7zwlxr3",
+        "cover": "https://i.ytimg.com/vi/LKroEZ9vVyw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lc6udEymgFRSGkAD4eeUTi2Fwsgw",
+        "seconds": 223.0,
+        "explicit": false
+      },
+      {
+        "id": "2A_EPgc0l-Y",
+        "name": "Change",
+        "artists": "Big Thief",
+        "credited": [
+          {
+            "name": "Big Thief",
+            "id": "UCYUYq5dThTOIY6o9hAgnlQQ"
+          }
+        ],
+        "album": "Dragon New Warm Mountain I Believe in You",
+        "album_id": "MPREb_5vCH8bfectk",
+        "cover": "https://i.ytimg.com/vi/MTIzsTv1ENY/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kwHHuYrDrgzDUQc9pbwguoHoQIjQ",
+        "seconds": 296.0,
+        "explicit": false
+      },
+      {
+        "id": "drgrF4rpKTM",
+        "name": "With Love From (Official Video)",
+        "artists": "Aly & AJ",
+        "credited": [
+          {
+            "name": "Aly & AJ",
+            "id": "UCxnxwoKn8rbiNMb9PwBdmHQ"
+          }
+        ],
+        "album": "With Love From",
+        "album_id": "MPREb_p7njJdwL6aF",
+        "cover": "https://i.ytimg.com/vi/q2lvYGdDa0E/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l2o15ksekzFpYx5_rDY5jgP10q6A",
+        "seconds": 240.0,
+        "explicit": false
+      },
+      {
+        "id": "0v7OcI32WL4",
+        "name": "Frog",
+        "artists": "Cavetown",
+        "credited": [
+          {
+            "name": "Cavetown",
+            "id": "UCzc1FjJnWChcX1CQkSC5nAA"
+          }
+        ],
+        "album": "frog",
+        "album_id": "MPREb_39aFO4ppITL",
+        "cover": "https://i.ytimg.com/vi/SM84dZTvJvY/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kQ4BElJVVApfL4Y0_jGEaYyd7ERQ",
+        "seconds": 207.0,
+        "explicit": false
+      },
+      {
+        "id": "arP1zZXzaBg",
+        "name": "Morning",
+        "artists": "Charlotte Lawrence",
+        "credited": [
+          {
+            "name": "Charlotte Lawrence",
+            "id": "UCCLJDE8f_Aak_NozhLEKwAw"
+          }
+        ],
+        "album": "Morning",
+        "album_id": "MPREb_agAVaz2DCMy",
+        "cover": "https://i.ytimg.com/vi/6AaEFjpRAW8/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lWuMq8gUjhBS_UDgJjANV9dQqMcg",
+        "seconds": 182.0,
+        "explicit": false
+      },
+      {
+        "id": "I5AR-2pPY8E",
+        "name": "When I Am With You",
+        "artists": "Warhaus",
+        "credited": [
+          {
+            "name": "Warhaus",
+            "id": "UCYrfMgjPKdVo9teIrnrspfA"
+          }
+        ],
+        "album": "Ha Ha Heartbreak",
+        "album_id": "MPREb_zn2sWmFv5XF",
+        "cover": "https://i.ytimg.com/vi/z6KVdP39ZeU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kXmF1wbw40TZYqziVp0ovcJHtAaw",
+        "seconds": 338.0,
+        "explicit": false
+      },
+      {
+        "id": "fTdCJb7rbfA",
+        "name": "Shame On You",
+        "artists": "Palace",
+        "credited": [
+          {
+            "name": "Palace",
+            "id": "UCxMXIrwJ_ZHiSEjkj4vdSxw"
+          }
+        ],
+        "album": "Shame on You",
+        "album_id": "MPREb_BGUaXh39o8h",
+        "cover": "https://yt3.googleusercontent.com/46nwH_04DUL-5U5owN4g2j-OODN6yNEDulLIAiM3U8o3YKqp63vaGGON3OPmPLCeL2Vx6sr4qjKIGRk3IA=w120-h120-l90-rj",
+        "seconds": 201.0,
+        "explicit": false
+      },
+      {
+        "id": "dnceGRsyxRI",
+        "name": "In My Life",
+        "artists": "Madison Cunningham",
+        "credited": [
+          {
+            "name": "Madison Cunningham",
+            "id": "UC441i2xhDLf7YV0bc3c4oYg"
+          }
+        ],
+        "album": "In My Life",
+        "album_id": "MPREb_AnxCygYU2pz",
+        "cover": "https://i.ytimg.com/vi/7-VSDUqVmnI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kIG8mLEoglV0KwpViTAJitKj9DUw",
+        "seconds": 177.0,
+        "explicit": false
+      },
+      {
+        "id": "r6H3pfSK3i4",
+        "name": "I Wish I Was",
+        "artists": "The Avett Brothers",
+        "credited": [
+          {
+            "name": "The Avett Brothers",
+            "id": "UC4gVpVxWJmpR3dNZxzyKkrA"
+          }
+        ],
+        "album": "True Sadness",
+        "album_id": "MPREb_BD3OlD4SgEI",
+        "cover": "https://yt3.googleusercontent.com/2mFpO_tGpK02VTH5Kdh-csKjdt1KuueaFpl-smH-jeWI7yW_0iiCZWINPX9_H9pu0jep8qaHz_9uqhoh=w120-h120-l90-rj",
+        "seconds": 317.0,
+        "explicit": false
+      },
+      {
+        "id": "T0-2LJ4dvO8",
+        "name": "Line of Fire",
+        "artists": "José González",
+        "credited": [
+          {
+            "name": "José González",
+            "id": "UCVKb7VKgr2i5X5cFZCF2gig"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/T0-2LJ4dvO8/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3klF9xX4koEeLXuZgk3px6ObcKryg",
+        "seconds": 185.0,
+        "explicit": false
+      },
+      {
+        "id": "t_EWFecsE7I",
+        "name": "Hollywood Forever Cemetery (Official Music Video)",
+        "artists": "August Ponthier",
+        "credited": [
+          {
+            "name": "August Ponthier",
+            "id": "UCqaZLeLg2Rws5q9vcGigQSQ"
+          }
+        ],
+        "album": "Shaking Hands With Elvis",
+        "album_id": "MPREb_om7p4ZiLktM",
+        "cover": "https://i.ytimg.com/vi/-AVwsth4urg/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nnKMxJLWli68uazRDS7gJZqxhS9A",
+        "seconds": 210.0,
+        "explicit": false
+      },
+      {
+        "id": "OzPyh8frD7s",
+        "name": "IHM",
+        "artists": "FKJ",
+        "credited": [
+          {
+            "name": "FKJ",
+            "id": "UCxcGxv-per5g7A9be800tQA"
+          }
+        ],
+        "album": "V I N C E N T",
+        "album_id": "MPREb_PCFXytteMKh",
+        "cover": "https://i.ytimg.com/vi/gG4xMqPFLbc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mkY-hNuenAGlBo6DecaJRzXxtDxQ",
+        "seconds": 206.0,
+        "explicit": false
+      },
+      {
+        "id": "EqcCU7Yyhn4",
+        "name": "novembre",
+        "artists": "November Ultra",
+        "credited": [
+          {
+            "name": "November Ultra",
+            "id": "UC4w7Nh8BJLjoZGqpQZYs53g"
+          }
+        ],
+        "album": "bedroom walls",
+        "album_id": "MPREb_vb1w1DqgPDt",
+        "cover": "https://i.ytimg.com/vi/lkfouQC-iIs/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mK9XjIXFRyZPQrMQvgWiC6Kr3a0w",
+        "seconds": 186.0,
+        "explicit": false
+      },
+      {
+        "id": "OcQd0n6lP5w",
+        "name": "Better Distractions",
+        "artists": "Faye Webster",
+        "credited": [
+          {
+            "name": "Faye Webster",
+            "id": "UCdKJ6iMnCsPcTDB5p510Ztg"
+          }
+        ],
+        "album": "I Know I'm Funny haha",
+        "album_id": "MPREb_fJJZrZ3EaRi",
+        "cover": "https://i.ytimg.com/vi/gYUB0O0No0A/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lYs6Cf3jPwh6g3wAJdFVIB941AmQ",
+        "seconds": 250.0,
+        "explicit": false
+      },
+      {
+        "id": "0Ij2gWljijw",
+        "name": "Be the Wheel",
+        "artists": "Theo Katzman",
+        "credited": [
+          {
+            "name": "Theo Katzman",
+            "id": "UC04pAiwRbjoBfmUTBY7Orcw"
+          }
+        ],
+        "album": "Be the Wheel",
+        "album_id": "MPREb_sGtZKVHFxoE",
+        "cover": "https://i.ytimg.com/vi/oEB0Y4kY5VE/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mVeP8NnGx4-ufEBvrDhKLyDWoDUg",
+        "seconds": 228.0,
+        "explicit": false
+      },
+      {
+        "id": "Q1aZVCK5c3Q",
+        "name": "Fleeting Memories",
+        "artists": "C. James",
+        "credited": [
+          {
+            "name": "C. James",
+            "id": "UCdVTH31qxwhjCZjv0dMQweA"
+          }
+        ],
+        "album": "Fleeting Memories",
+        "album_id": "MPREb_BNDcVhd1ecr",
+        "cover": "https://yt3.googleusercontent.com/BDLmjkoXUnmYtev9vfaNjouRSRT4slvfH2x58tjYMu2pyZLfHdnDIdJtDr9Dtji4846nyF2xVZkaKotsfw=w120-h120-l90-rj",
+        "seconds": 216.0,
+        "explicit": false
+      },
+      {
+        "id": "Y2Iw0vE5oD8",
+        "name": "Morning Elvis (live at Denver Ball Arena) (feat. Ethel Cain)",
+        "artists": "Florence + The Machine",
+        "credited": [
+          {
+            "name": "Florence + The Machine",
+            "id": "UCkmCGbrGa7yNrRl_NHrOaTw"
+          }
+        ],
+        "album": "Morning Elvis (Live At Denver Ball Arena)",
+        "album_id": "MPREb_F0HY3giGERe",
+        "cover": "https://i.ytimg.com/vi/U4FHttv_iRM/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l5VefmAOMxLfEIn37o5aKpF-PfqQ",
+        "seconds": 256.0,
+        "explicit": false
+      },
+      {
+        "id": "AiXjhj3-j9s",
+        "name": "Nice to See You (feat. FLOOR CRY)",
+        "artists": "Vansire",
+        "credited": [
+          {
+            "name": "Vansire",
+            "id": "UCXnU9Wc2jnOuSo1jzFhAA9g"
+          }
+        ],
+        "album": "Nice to See You",
+        "album_id": "MPREb_xOmhy2OveRY",
+        "cover": "https://i.ytimg.com/vi/2IrIPXSpQWM/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3ms0BeqsrT6Uwwmb0Z4BagITP8hNA",
+        "seconds": 182.0,
+        "explicit": false
+      },
+      {
+        "id": "K6KoWs0-9PI",
+        "name": "Ghost On",
+        "artists": "Angel Olsen",
+        "credited": [
+          {
+            "name": "Angel Olsen",
+            "id": "UCLYqVE2kmsNw2uJFNjHv8yw"
+          }
+        ],
+        "album": "Big Time",
+        "album_id": "MPREb_57HZ1M8lt1w",
+        "cover": "https://yt3.googleusercontent.com/o7gPP-iJ5e1E8J-S-e5SkJm7weNTDrSJnxVP-8kgm-WkUoxiPlSLSywk6L3GdaM1z4G4qZa_UJYCFOSU=w120-h120-l90-rj",
+        "seconds": 261.0,
+        "explicit": false
+      },
+      {
+        "id": "Ia9bgTMGwaI",
+        "name": "This Time Tomorrow",
+        "artists": "Brandi Carlile",
+        "credited": [
+          {
+            "name": "Brandi Carlile",
+            "id": "UCwGdFIcqgAd5JjbA1c3sBXw"
+          }
+        ],
+        "album": "In These Silent Days",
+        "album_id": "MPREb_UE91SXXfXdU",
+        "cover": "https://i.ytimg.com/vi/6QeTgvx9R94/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kjoJPXLMcKkzsYX5JWplGKMhDfdg",
+        "seconds": 207.0,
+        "explicit": false
+      },
+      {
+        "id": "dJztyJqarPM",
+        "name": "Lydia Wears a Cross",
+        "artists": "Julia Jacklin",
+        "credited": [
+          {
+            "name": "Julia Jacklin",
+            "id": "UCypJMo2Ed63_4gvbtwkrgVw"
+          }
+        ],
+        "album": "PRE PLEASURE",
+        "album_id": "MPREb_ziQgT2X1mQv",
+        "cover": "https://i.ytimg.com/vi/4D6buHQYhUI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k4Os3FkRxQmVUTl9JkgVH4Z2rx0w",
+        "seconds": 242.0,
+        "explicit": false
+      },
+      {
+        "id": "VAS7ORb43bM",
+        "name": "Sunset Canyon",
+        "artists": "Foxwarren, Darryl Kissick, Andy Shauf",
+        "credited": [
+          {
+            "name": "Foxwarren",
+            "id": "UCwpuWjkxo4BUAEoQL2AG2Iw"
+          },
+          {
+            "name": "Darryl Kissick",
+            "id": "UCeM356Q2SObqkkPH_GSuYuw"
+          },
+          {
+            "name": "Andy Shauf",
+            "id": "UCp3eGVEfpk2hyFvM2lVRuYA"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/VAS7ORb43bM/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k_Rd24gwMV7wG4BW2csJbRNaKPwQ",
+        "seconds": 261.0,
+        "explicit": false
+      },
+      {
+        "id": "gwHIAhRRtho",
+        "name": "Can You Afford To Lose Me? (Official Video)",
+        "artists": "Holly Humberstone",
+        "credited": [
+          {
+            "name": "Holly Humberstone",
+            "id": "UCYcH-TJ6hQFIsqhqqZCSzRA"
+          }
+        ],
+        "album": "Can You Afford To Lose Me?",
+        "album_id": "MPREb_lHDScafA2Av",
+        "cover": "https://i.ytimg.com/vi/pNVo56WV5Nw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l4HgcySOrffIYbsJsQbTMHwoR5nA",
+        "seconds": 243.0,
+        "explicit": false
+      },
+      {
+        "id": "T-HUce-oXrg",
+        "name": "Common Ground",
+        "artists": "Hana Lili",
+        "credited": [
+          {
+            "name": "Hana Lili",
+            "id": "UC0TUDRRMv4e_Z6NEjMZQIRw"
+          }
+        ],
+        "album": "Common Ground",
+        "album_id": "MPREb_afTbik1Of5E",
+        "cover": "https://yt3.googleusercontent.com/dcDE7pKc-ZbyQEL-7G3R1JcQJFxVPrebZUknCEUwQLW1wm4C3XXrI_GnfeNcpAHpdyRqL7xjAAV2V84E=w120-h120-l90-rj",
+        "seconds": 207.0,
+        "explicit": false
+      },
+      {
+        "id": "mBiSnqOYI0E",
+        "name": "Sapling (feat. Rag'n'Bone Man)",
+        "artists": "Foy Vance",
+        "credited": [
+          {
+            "name": "Foy Vance",
+            "id": "UCTiTo-oRk6lvv7pg1NxDKwg"
+          }
+        ],
+        "album": "Sapling",
+        "album_id": "MPREb_MS8bOuxD2NF",
+        "cover": "https://i.ytimg.com/vi/5fA5Oh1Zfis/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3karwp0M5n4ZJX9X29Y38-1EfeDjA",
+        "seconds": 195.0,
+        "explicit": false
+      },
+      {
+        "id": "-I--cn1bzH8",
+        "name": "Los Angeles",
+        "artists": "Tors",
+        "credited": [
+          {
+            "name": "Tors",
+            "id": "UC_CXFZjctkUGyOsmGyRAIVg"
+          }
+        ],
+        "album": "Songs From The Road, Vol. 1",
+        "album_id": "MPREb_3pBqwtb8rS6",
+        "cover": "https://yt3.googleusercontent.com/6-cxT_ppzdz_JKGTM9GT8dkAFybAnjSA0WgjlgURnV5vKFMKcULkp7JME1hfy4OKyyXGN_554hm0XOA=w120-h120-l90-rj",
+        "seconds": 207.0,
+        "explicit": false
+      },
+      {
+        "id": "IE6fVmWsBck",
+        "name": "Tiebreaker",
+        "artists": "The Head And The Heart",
+        "credited": [
+          {
+            "name": "The Head And The Heart",
+            "id": "UCfgmSmdaYvNi2g7-VyGlEcg"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/IE6fVmWsBck/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3n5_UyeSifo5M9EaEJckaiuMMxhEQ",
+        "seconds": 240.0,
+        "explicit": false
+      },
+      {
+        "id": "oYvA9zXJFbs",
+        "name": "Ceilings",
+        "artists": "Local Natives",
+        "credited": [
+          {
+            "name": "Local Natives",
+            "id": "UCZGPl54hjSOMbVgCAJfpEeg"
+          }
+        ],
+        "album": "Hummingbird",
+        "album_id": "MPREb_OgnIPHDA0tN",
+        "cover": "https://i.ytimg.com/vi/cR9t4X6tld4/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mJP98nH_FmIzCezm3YS3Vg1C_Pfg",
+        "seconds": 177.0,
+        "explicit": false
+      },
+      {
+        "id": "z12NZxo4zIs",
+        "name": "Young Wild Free",
+        "artists": "Marc Scibilia",
+        "credited": [
+          {
+            "name": "Marc Scibilia",
+            "id": "UCWkfMtnVXU9FVGeHfQauuDA"
+          }
+        ],
+        "album": "Young Wild Free",
+        "album_id": "MPREb_dDpSkJP6199",
+        "cover": "https://yt3.googleusercontent.com/hjtwiPMl3N1zKFGAozx3D3jO-_BY_ySS4gXHEOzWh6ooou4KrraVUvvcnTEYNVnkIILIUopvUcS5ZcM-=w120-h120-l90-rj",
+        "seconds": 199.0,
+        "explicit": false
+      },
+      {
+        "id": "joPEBLZwQYg",
+        "name": "Over Again",
+        "artists": "VOILÀ",
+        "credited": [
+          {
+            "name": "VOILÀ",
+            "id": "UCtfzWsTkHQ07L0XZGtEbbAQ"
+          }
+        ],
+        "album": "Over Again",
+        "album_id": "MPREb_zRwDjvYMgkv",
+        "cover": "https://yt3.googleusercontent.com/ZCyjnLMzjxhfudb5EXCizCqd3Dh2tFd0B5kBb6eSN5Jg7RmOR3VdCyxzPJANLw2FMRUhsZNpv-46jXGH=w120-h120-l90-rj",
+        "seconds": 199.0,
+        "explicit": false
+      },
+      {
+        "id": "uuUAciBsMto",
+        "name": "With",
+        "artists": "Pearla",
+        "credited": [
+          {
+            "name": "Pearla",
+            "id": "UC6xC01MkMtiXNrM4-h14rOw"
+          }
+        ],
+        "album": "With",
+        "album_id": "MPREb_nyEE4Lv6ORx",
+        "cover": "https://yt3.googleusercontent.com/00St2RKbu6LK0kgl7nebIq-HVc70RXq3Fa35Dyu11BFj4JAutdm_0devQ6hlfTAfRk5ZHVf-tS90Nlme=w120-h120-l90-rj",
+        "seconds": 179.0,
+        "explicit": false
+      },
+      {
+        "id": "Q-2OUgisgZg",
+        "name": "Better Angels",
+        "artists": "Marcus Mumford",
+        "credited": [
+          {
+            "name": "Marcus Mumford",
+            "id": "UCUquk46D--B4CJ394pw0nqg"
+          }
+        ],
+        "album": "(self-titled)",
+        "album_id": "MPREb_3GKWYJdaNlp",
+        "cover": "https://yt3.googleusercontent.com/iGwiT31QYui-c9Q-gnwOreWWboCCSDMBhBUMw91Wyr4dGG1YBIn9LLk3GVfcE9Q3PuTXhMzi8db4By17=w120-h120-l90-rj",
+        "seconds": 206.0,
+        "explicit": false
+      },
+      {
+        "id": "f1S6uWde8R4",
+        "name": "Pink Balloon",
+        "artists": "Samia",
+        "credited": [
+          {
+            "name": "Samia",
+            "id": "UCsMu3BA5WhaWx0cmbulmlJw"
+          }
+        ],
+        "album": "Honey",
+        "album_id": "MPREb_zjHNmfsky7c",
+        "cover": "https://i.ytimg.com/vi/-h5xYZyBkDo/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3meF93s46KmIowm8MZ48Jgd-pCVkg",
+        "seconds": 137.0,
+        "explicit": false
+      },
+      {
+        "id": "zSKM9HwSLho",
+        "name": "I'm Always On Stage",
+        "artists": "Sam Fender",
+        "credited": [
+          {
+            "name": "Sam Fender",
+            "id": "UCrEdrkYcHH7ODFeZUNMInRg"
+          }
+        ],
+        "album": "People Watching (Deluxe Edition)",
+        "album_id": "MPREb_yNJxOgvHFpv",
+        "cover": "https://i.ytimg.com/vi/QBDV-B1C8kE/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kqla-CGkqLgrZ6ellzAB-dXizd5g",
+        "seconds": 244.0,
+        "explicit": false
+      },
+      {
+        "id": "7sksbCJdynk",
+        "name": "Solitude",
+        "artists": "Hana Lili",
+        "credited": [
+          {
+            "name": "Hana Lili",
+            "id": "UC0TUDRRMv4e_Z6NEjMZQIRw"
+          }
+        ],
+        "album": "Solitude",
+        "album_id": "MPREb_eUsKiFmYELg",
+        "cover": "https://yt3.googleusercontent.com/2jjQ6fRoDvqFCKcpegHtwoLyxSjF8d-ruT3GI0vKuO4oC_PApkCtNsd_ZJyXf86i83terrshwRw-MMg4=w120-h120-l90-rj",
+        "seconds": 188.0,
+        "explicit": false
+      },
+      {
+        "id": "0cwhlRPk_to",
+        "name": "itch",
+        "artists": "quinnie",
+        "credited": [
+          {
+            "name": "quinnie",
+            "id": "UCTqFpgohhdtwqbYQBi29GGQ"
+          }
+        ],
+        "album": "itch",
+        "album_id": "MPREb_chKhapP2fyW",
+        "cover": "https://i.ytimg.com/vi/rQkETX8JeT0/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lXQlVtlxUojHagmUjTyulnRTd_WA",
+        "seconds": 226.0,
+        "explicit": false
+      },
+      {
+        "id": "qx2LJwb_T4Q",
+        "name": "white lies (official video)",
+        "artists": "Katie Gregson-MacLeod",
+        "credited": [
+          {
+            "name": "Katie Gregson-MacLeod",
+            "id": "UC2IGUv6t40SGeohIAR4TRtA"
+          }
+        ],
+        "album": "songs written for piano",
+        "album_id": "MPREb_durhCVBNuWB",
+        "cover": "https://i.ytimg.com/vi/BG0rUYv7SmM/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mWT5qVEOpDXK_7xuDNDLZ5Nw3Ltw",
+        "seconds": 148.0,
+        "explicit": false
+      },
+      {
+        "id": "WSh5l3f6mGY",
+        "name": "Carolina",
+        "artists": "Adeem the Artist",
+        "credited": [
+          {
+            "name": "Adeem the Artist",
+            "id": "UCMIepjM9dGXeYEm0w_RvOOg"
+          }
+        ],
+        "album": "White Trash Revelry",
+        "album_id": "MPREb_bbVodQwF6BN",
+        "cover": "https://yt3.googleusercontent.com/KbkYbvhNIcGzqNyQvw8wGS06M5vBaoedAoLORKsFHEVBtIG51ydwLH-XYt1NolF-0VvDHi5aB22rvoQC0w=w120-h120-l90-rj",
+        "seconds": 205.0,
+        "explicit": false
+      },
+      {
+        "id": "JOyzf1qem28",
+        "name": "Permanent State",
+        "artists": "girlpuppy",
+        "credited": [
+          {
+            "name": "girlpuppy",
+            "id": "UCt3Bg2Nju3KtZtq51euABRg"
+          }
+        ],
+        "album": "When I'm Alone",
+        "album_id": "MPREb_pdsT1NElpOr",
+        "cover": "https://yt3.googleusercontent.com/FawyweG0077c9LWXtwGb6mc778XC7IwpH0BUCSRJB8432RmSDIO7VqA46uex2FIArtYOLp4WsiD_kSc=w120-h120-l90-rj",
+        "seconds": 274.0,
+        "explicit": false
+      },
+      {
+        "id": "J-9-XiXsg4o",
+        "name": "Harvest Moon",
+        "artists": "Sunflower Bean",
+        "credited": [
+          {
+            "name": "Sunflower Bean",
+            "id": "UCOI2VEFIUgURdfDram8xRXg"
+          }
+        ],
+        "album": "From the Basement",
+        "album_id": "MPREb_PpF0FaMquVr",
+        "cover": "https://yt3.googleusercontent.com/pVHs7mBqwi4rKUsn_tMeJ9zTKA-dnxEF9KTF9hiUTDmm6M0HTvR3ypLj2c6mmATl-r3GYVl-GANTtvsbQw=w120-h120-l90-rj",
+        "seconds": 231.0,
+        "explicit": false
+      },
+      {
+        "id": "SHeZBQrYcbM",
+        "name": "Wearing Blue",
+        "artists": "Wild Child",
+        "credited": [
+          {
+            "name": "Wild Child",
+            "id": "UCPa6vA0cvjLUvgXiX7pph6Q"
+          }
+        ],
+        "album": "Wearing Blue",
+        "album_id": "MPREb_rBmKyJb3u89",
+        "cover": "https://yt3.googleusercontent.com/VQ1ZAcdg3VltqenONMu1UdrC9fhpsGoO8heTKorKvNkTeBvdFSuXG-3yLLp8VN7oFaNaOhKbkgzVVgvtEg=w120-h120-l90-rj",
+        "seconds": 248.0,
+        "explicit": false
+      },
+      {
+        "id": "xakxSS7mw5Y",
+        "name": "Stayed at the Party",
+        "artists": "Hope Tala",
+        "credited": [
+          {
+            "name": "Hope Tala",
+            "id": "UC2TgVW3yC_MQ4Wmzyy1OwEg"
+          }
+        ],
+        "album": "Stayed at the Party",
+        "album_id": "MPREb_Wl5WbQUOaWq",
+        "cover": "https://i.ytimg.com/vi/zr2tMc1y7lA/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3keu5htJ_lM1ZVTnZK8m373_lghfw",
+        "seconds": 214.0,
+        "explicit": false
+      },
+      {
+        "id": "jppwj0KisE4",
+        "name": "Caroline Good Bye",
+        "artists": "Taken By Trees",
+        "credited": [
+          {
+            "name": "Taken By Trees",
+            "id": "UCndGlDSLJcr0uFjJi4StKrA"
+          }
+        ],
+        "album": "Another Year",
+        "album_id": "MPREb_EC6JkKXWM8T",
+        "cover": "https://yt3.googleusercontent.com/9Y9MJbPA7rOxwy2pRDhjjUKBktneMrOPvV_GOAmU89sRZ0UT5d-jlq3VQewmbTRFbqCZDNJBkXvvrD8E=w120-h120-l90-rj",
+        "seconds": 217.0,
+        "explicit": false
+      },
+      {
+        "id": "ZW_f7SSSZSY",
+        "name": "Better Part of Me",
+        "artists": "SYML, Sara Watkins",
+        "credited": [
+          {
+            "name": "SYML",
+            "id": "UCikqEzbWCBRKj00F_L3EFfg"
+          },
+          {
+            "name": "Sara Watkins",
+            "id": "UCOGQO_wD5rJ_gsRPfFZsaww"
+          }
+        ],
+        "album": "Better Part of Me",
+        "album_id": "MPREb_BDPi7JQ9XCL",
+        "cover": "https://i.ytimg.com/vi/lpDmwJgwt80/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nm6kTn9yUjGgKCVi0LDt3RnkLfTw",
+        "seconds": 227.0,
+        "explicit": false
+      },
+      {
+        "id": "lj6XIIRlNAQ",
+        "name": "graveyard shift (Official Video)",
+        "artists": "Jonah Kagen",
+        "credited": [
+          {
+            "name": "Jonah Kagen",
+            "id": "UCWZ4RaEYeFsYt1sZguC9XUw"
+          }
+        ],
+        "album": "graveyard shift",
+        "album_id": "MPREb_0b8lCMQRD8K",
+        "cover": "https://i.ytimg.com/vi/BO9yDr_MkUw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3klc20zF-HOs8OEUvNwnlancokRQw",
+        "seconds": 148.0,
+        "explicit": false
+      },
+      {
+        "id": "OEXB-gWSPz0",
+        "name": "Bird of Beauty",
+        "artists": "Emilie-Claire Barlow",
+        "credited": [
+          {
+            "name": "Emilie-Claire Barlow",
+            "id": "UCiqilQtjIXSmrnDIZ8Hh07g"
+          }
+        ],
+        "album": "Bird of Beauty",
+        "album_id": "MPREb_DNLste8wdHL",
+        "cover": "https://yt3.googleusercontent.com/nUCyAFwRtcQWKSjW6E9pBbsYCIxyFWzpHRIHxL6aOW5PRN7jZAwwDnM6vCMYxcOpobL5dPsErkux_7o=w120-h120-l90-rj",
+        "seconds": 296.0,
+        "explicit": false
+      },
+      {
+        "id": "wkiy-Jnpna4",
+        "name": "whore",
+        "artists": "mehro",
+        "credited": [
+          {
+            "name": "mehro",
+            "id": "UCJ6EU6BIArF5PfpfWlRRz9A"
+          }
+        ],
+        "album": "whore",
+        "album_id": "MPREb_oUC8fN3mWXH",
+        "cover": "https://i.ytimg.com/vi/ZO8jCmiWaz4/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k9Btw09b3lRw-DTZ5XcQ3gQP1Q4Q",
+        "seconds": 164.0,
+        "explicit": false
+      },
+      {
+        "id": "VG_TMfQqV9M",
+        "name": "Underwater (Acoustic)",
+        "artists": "Mini Trees",
+        "credited": [
+          {
+            "name": "Mini Trees",
+            "id": "UC3njAkuZBucgm-18EpcGd_Q"
+          }
+        ],
+        "album": "Underwater (Acoustic)",
+        "album_id": "MPREb_dJNYbOI8JLz",
+        "cover": "https://yt3.googleusercontent.com/6Rvyf0I7eRBSx_2cVFAteCf-atGen6q4S6BuvAZ5m6aD7-LRdQKSdU8CbQJ5kehVzc4-nS_7zOg44YFOzA=w120-h120-l90-rj",
+        "seconds": 212.0,
+        "explicit": false
+      },
+      {
+        "id": "upE92FcfZRI",
+        "name": "Far Out",
+        "artists": "Ben Howard",
+        "credited": [
+          {
+            "name": "Ben Howard",
+            "id": "UCdrYSE8i5VS1HwtXJBnWJ8A"
+          }
+        ],
+        "album": "Far Out / Follies Fixture",
+        "album_id": "MPREb_AN2JPkCgZXO",
+        "cover": "https://yt3.googleusercontent.com/4VMV1H53vTTqP9_dsnBiwzRNN-pkIvLh1QzQU9AMrKb2lUkhtq-ovmDaGgw6ak2GTTDWJP3jNHf8eBw=w120-h120-l90-rj",
+        "seconds": 259.0,
+        "explicit": false
+      },
+      {
+        "id": "5xqk-4p0dXQ",
+        "name": "Forever (Official Audio)",
+        "artists": "Joy Crookes",
+        "credited": [
+          {
+            "name": "Joy Crookes",
+            "id": "UCaJzzZj8qhcj1FCTnXFbdhw"
+          }
+        ],
+        "album": "Juniper",
+        "album_id": "MPREb_nIPJHyH3k2S",
+        "cover": "https://i.ytimg.com/vi/jXpUsKqVDtw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lv5QugAjlvJe3Ge6c1TZGzaQqqmw",
+        "seconds": 198.0,
+        "explicit": false
+      },
+      {
+        "id": "oy3rNfasuKE",
+        "name": "Lilypad",
+        "artists": "Charlotte Clark",
+        "credited": [
+          {
+            "name": "Charlotte Clark",
+            "id": "UC9jsWvfij8e7wvBIm2Se35A"
+          }
+        ],
+        "album": "Lilypad",
+        "album_id": "MPREb_SI7EfnuMaPe",
+        "cover": "https://yt3.googleusercontent.com/Sufla_-BkLPOnQgkKwflVRvey1y_o65mG7wr3Odu2mTDFok8SPTnIVCdlzyaYV_UzmUKkkoDlPywayWM=w120-h120-l90-rj",
+        "seconds": 159.0,
+        "explicit": false
+      },
+      {
+        "id": "MoxmpH6z8Ec",
+        "name": "Oh Wonder - 22 Make (Visualiser)",
+        "artists": "Oh Wonder",
+        "credited": [
+          {
+            "name": "Oh Wonder",
+            "id": "UCmN_s8-4GfK2YYUkReUlHvg"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/MoxmpH6z8Ec/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k8njCINVlCLeuuWlrz1J4AjQP7WQ",
+        "seconds": 213.0,
+        "explicit": false
+      },
+      {
+        "id": "7pmuUcQZeoQ",
+        "name": "Blindsided",
+        "artists": "Hovvdy",
+        "credited": [
+          {
+            "name": "Hovvdy",
+            "id": "UCiMVUNXaZxk7wa9UZS_W03Q"
+          }
+        ],
+        "album": "True Love",
+        "album_id": "MPREb_W8aaIrATsRU",
+        "cover": "https://i.ytimg.com/vi/XWvGff3yCQs/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lTXRwuE-fJQxMO3bjjcDPV30Qi0A",
+        "seconds": 223.0,
+        "explicit": false
+      },
+      {
+        "id": "El7ZMZHhlaE",
+        "name": "Japan",
+        "artists": "Wallice",
+        "credited": [
+          {
+            "name": "Wallice",
+            "id": "UC17hiAYsQCYJebMh7mmAGmQ"
+          }
+        ],
+        "album": "Japan",
+        "album_id": "MPREb_9TqzJefKsIb",
+        "cover": "https://i.ytimg.com/vi/uAfFm4kRZpk/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kRPgZQrmTV8yIx9XJFzZRRVpvTmA",
+        "seconds": 217.0,
+        "explicit": false
+      },
+      {
+        "id": "_VjQ4zm2EMk",
+        "name": "Michigan",
+        "artists": "The Milk Carton Kids",
+        "credited": [
+          {
+            "name": "The Milk Carton Kids",
+            "id": "UCkJiFGVwm1iIn7sCsWQVGjQ"
+          }
+        ],
+        "album": "Prologue",
+        "album_id": "MPREb_opgHSxf6nKN",
+        "cover": "https://i.ytimg.com/vi/bK32VGwKR_E/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lBWSuVzwiG-osgV2PKPDzhZsG9Rg",
+        "seconds": 331.0,
+        "explicit": false
+      },
+      {
+        "id": "kBVtYTk4uE4",
+        "name": "streetlights",
+        "artists": "Oliver Keane",
+        "credited": [
+          {
+            "name": "Oliver Keane",
+            "id": "UCuKNx7lOO8vZ2w8dk0gEp5A"
+          }
+        ],
+        "album": "streetlights",
+        "album_id": "MPREb_wNvQWTEvbFT",
+        "cover": "https://i.ytimg.com/vi/WoIuoFZqkkE/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l3xpYJ6GvBPkfOzxE4oSF4DC-fcw",
+        "seconds": 206.0,
+        "explicit": false
+      },
+      {
+        "id": "lu5WPJ6gGMw",
+        "name": "Let Me Know When (feat. Fleet Foxes)",
+        "artists": "Adam Melchor",
+        "credited": [
+          {
+            "name": "Adam Melchor",
+            "id": "UCs9la0CzQDAivYgu3MEwpBw"
+          }
+        ],
+        "album": "Here Goes Nothing!",
+        "album_id": "MPREb_2zaFeoSHVoh",
+        "cover": "https://i.ytimg.com/vi/0t2EeDgmMh0/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3ni_0_CgSB42bAiQJCu9gDC1LMCnQ",
+        "seconds": 175.0,
+        "explicit": false
+      },
+      {
+        "id": "ch8TkYmMbxc",
+        "name": "Liverpool",
+        "artists": "Nathaniel Rateliff",
+        "credited": [
+          {
+            "name": "Nathaniel Rateliff",
+            "id": "UCKcwinf8yqtT1eZlqOI2ubA"
+          }
+        ],
+        "album": "Closer",
+        "album_id": "MPREb_Yoj4pYTJxup",
+        "cover": "https://yt3.googleusercontent.com/WEH7C8JdoJs-Y_dJMMB6IMctokwcq8Fy4YyK3N3HZdXcxEyMICPwgk2KnjhRtJjEZk3lSGz-S_o80UY=w120-h120-l90-rj",
+        "seconds": 184.0,
+        "explicit": false
+      },
+      {
+        "id": "RhjdKm-yck8",
+        "name": "Lady in the Darkest Hour",
+        "artists": "Kate Bollinger",
+        "credited": [
+          {
+            "name": "Kate Bollinger",
+            "id": "UCIeaT7MYGMl7S8qObungJOA"
+          }
+        ],
+        "album": "Look at it in the Light",
+        "album_id": "MPREb_nsPsDWS1Ycl",
+        "cover": "https://i.ytimg.com/vi/Su6ThVTl0IU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kRHNOftKM4p4xRkttZqhtFt5pB6w",
+        "seconds": 276.0,
+        "explicit": false
+      },
+      {
+        "id": "n1Xg6MqPxq8",
+        "name": "to each their dot",
+        "artists": "Haley Heynderickx, Max García Conover",
+        "credited": [
+          {
+            "name": "Haley Heynderickx",
+            "id": "UCoaTCrGfCNAvjBp_Zy1Jkig"
+          },
+          {
+            "name": "Max García Conover",
+            "id": "UCLQ9GcSgUw_-QL0DIK4hQrw"
+          }
+        ],
+        "album": "to each their dot & This Morning I Am Born Again",
+        "album_id": "MPREb_gbjExrHflns",
+        "cover": "https://i.ytimg.com/vi/HedhexHvLZs/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3n4NGIbVepCnYQqE1Wd2oNnSK5_BQ",
+        "seconds": 187.0,
+        "explicit": false
+      },
+      {
+        "id": "f22u9OkTLWo",
+        "name": "Dandelions",
+        "artists": "Jackson Lundy",
+        "credited": [
+          {
+            "name": "Jackson Lundy",
+            "id": "UCwGyebuk4xGBdDflGh7f52w"
+          }
+        ],
+        "album": "Dandelions",
+        "album_id": "MPREb_Uj1CW2Vbno8",
+        "cover": "https://i.ytimg.com/vi/xw8qijJSN2U/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lSKVLpnzosYBYfhoTc_4PGb8eFHw",
+        "seconds": 148.0,
+        "explicit": false
+      },
+      {
+        "id": "BcVmWK27XTI",
+        "name": "newdemo",
+        "artists": "Soccer Mommy",
+        "credited": [
+          {
+            "name": "Soccer Mommy",
+            "id": "UCiUjSTW94mp2xfW9jqotQlg"
+          }
+        ],
+        "album": "Sometimes, Forever",
+        "album_id": "MPREb_VdoX2x8ZLCy",
+        "cover": "https://i.ytimg.com/vi/ildebdJsr0A/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mfQdpivFWy1HkvRk_Bk2yaCMaPbw",
+        "seconds": 210.0,
+        "explicit": false
+      },
+      {
+        "id": "ggewmjYW6Jk",
+        "name": "tap",
+        "artists": "Tomberlin",
+        "credited": [
+          {
+            "name": "Tomberlin",
+            "id": "UC_yPCd8y96WCIWbJRI6c8DQ"
+          }
+        ],
+        "album": "i don’t know who needs to hear this...",
+        "album_id": "MPREb_y1KPgI4exwp",
+        "cover": "https://i.ytimg.com/vi/7wPjgEtx-lI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lUEhkSjdxT3YlT2dXQaeOzrRPwug",
+        "seconds": 272.0,
+        "explicit": false
+      },
+      {
+        "id": "crI0vXHy79s",
+        "name": "Teeth Marks (Lyric Video)",
+        "artists": "S.G. Goodman",
+        "credited": [
+          {
+            "name": "S.G. Goodman",
+            "id": "UCuiGa54BrW8i1OvUoq-KH2A"
+          }
+        ],
+        "album": "Teeth Marks",
+        "album_id": "MPREb_lVLsxUpgFQM",
+        "cover": "https://i.ytimg.com/vi/IQGxjdHaGW0/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nnnGn8Q5XpM2wSU89lxXBVPEaegw",
+        "seconds": 218.0,
+        "explicit": false
+      },
+      {
+        "id": "Kis0FFflqPo",
+        "name": "I Don’t Know How to End",
+        "artists": "Zella Day",
+        "credited": [
+          {
+            "name": "Zella Day",
+            "id": "UCO2KEHgiHiRm_RXyasQhi0g"
+          }
+        ],
+        "album": "Sunday In Heaven",
+        "album_id": "MPREb_ObpXLaKR4bt",
+        "cover": "https://i.ytimg.com/vi/EVTD_ZNsaZM/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lRiwpZxd769DcaazaE_DDbNK9ERA",
+        "seconds": 241.0,
+        "explicit": false
+      },
+      {
+        "id": "e09ZbM3Fqtw",
+        "name": "Feel Alive",
+        "artists": "The Light The Heat, Roary",
+        "credited": [
+          {
+            "name": "The Light The Heat",
+            "id": "UCtmp3aUytwSRe77oGO4vG1A"
+          },
+          {
+            "name": "Roary",
+            "id": "UCvLKis52WOCbta2iunkfW5Q"
+          }
+        ],
+        "album": "Afterlight",
+        "album_id": "MPREb_BYig0gFt8Z5",
+        "cover": "https://i.ytimg.com/vi/uzME3bmHuGg/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kZDDf3Org7h7Kybvtfo7r330ifZw",
+        "seconds": 274.0,
+        "explicit": false
+      },
+      {
+        "id": "urBU-YsFrqo",
+        "name": "Often",
+        "artists": "Babehoven",
+        "credited": [
+          {
+            "name": "Babehoven",
+            "id": "UC15rgadDn44UUnkzzpQ2KcQ"
+          }
+        ],
+        "album": "Often",
+        "album_id": "MPREb_gBKOv1cUzVP",
+        "cover": "https://i.ytimg.com/vi/UIndMF5f6OA/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3klfMF_NiVNL2ysUliblrQXsSJKxA",
+        "seconds": 242.0,
+        "explicit": false
+      },
+      {
+        "id": "U5Ql3KZPdGA",
+        "name": "Orlando",
+        "artists": "Leith Ross",
+        "credited": [
+          {
+            "name": "Leith Ross",
+            "id": "UCraNyh8homf8djjUUip9e0w"
+          }
+        ],
+        "album": "Orlando",
+        "album_id": "MPREb_caMneXyvEMQ",
+        "cover": "https://i.ytimg.com/vi/_rB4twtf7wI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nmx2ELqAhG1fipvgFIzRG58Mtslw",
+        "seconds": 276.0,
+        "explicit": false
+      },
+      {
+        "id": "olgVXh5bbsU",
+        "name": "sunstruck",
+        "artists": "Tomberlin",
+        "credited": [
+          {
+            "name": "Tomberlin",
+            "id": "UC_yPCd8y96WCIWbJRI6c8DQ"
+          }
+        ],
+        "album": "i don’t know who needs to hear this...",
+        "album_id": "MPREb_y1KPgI4exwp",
+        "cover": "https://i.ytimg.com/vi/7nWMR1cCvQk/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kvg8Yh2NjKrw6kRWDMew9s_DOQiw",
+        "seconds": 302.0,
+        "explicit": false
+      },
+      {
+        "id": "TWAzEoETaRo",
+        "name": "Moon Sand",
+        "artists": "MyKey",
+        "credited": [
+          {
+            "name": "MyKey",
+            "id": "UCluMenwLG9sxfQ6wtojn32w"
+          }
+        ],
+        "album": "Moon Songs",
+        "album_id": "MPREb_HDKFlUVy5Et",
+        "cover": "https://i.ytimg.com/vi/QOTCeS7NW4c/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kfFTt944O4uLAFqgQoORxLVC537Q",
+        "seconds": 182.0,
+        "explicit": false
+      },
+      {
+        "id": "hJfk9NEW0es",
+        "name": "You’re In The Way",
+        "artists": "Jordana",
+        "credited": [
+          {
+            "name": "Jordana",
+            "id": "UCdI6gcLBlnkonWhyW2NoA0A"
+          }
+        ],
+        "album": "I'm Doing Well, Thanks for Asking",
+        "album_id": "MPREb_EqhuyPe0z4W",
+        "cover": "https://i.ytimg.com/vi/svgk-sTLbxI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l2haxQ_HXPrHIka7u0tMm8Wt-YsQ",
+        "seconds": 168.0,
+        "explicit": false
+      },
+      {
+        "id": "o4HcQQFpqNw",
+        "name": "Who Are You Now (Visualizer)",
+        "artists": "Madison Cunningham",
+        "credited": [
+          {
+            "name": "Madison Cunningham",
+            "id": "UC441i2xhDLf7YV0bc3c4oYg"
+          }
+        ],
+        "album": "Revealer",
+        "album_id": "MPREb_GWt39nqJD0f",
+        "cover": "https://i.ytimg.com/vi/KxV3bS-7Dbc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kd7JQdkXym8RGoTqp24NO0bz3l4g",
+        "seconds": 198.0,
+        "explicit": false
+      },
+      {
+        "id": "8hEFQSgfsyQ",
+        "name": "Beg, Steal, Borrow (Piano Version - Ghost No. 7 / Visualizer)",
+        "artists": "The Head And The Heart",
+        "credited": [
+          {
+            "name": "The Head And The Heart",
+            "id": "UCfgmSmdaYvNi2g7-VyGlEcg"
+          }
+        ],
+        "album": "Aperture",
+        "album_id": "MPREb_RRvGHre8hsG",
+        "cover": "https://i.ytimg.com/vi/Nijw9T6lZxg/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l5bkeUjjA3_Wkr0fxof79fPBYVlw",
+        "seconds": 246.0,
+        "explicit": false
+      },
+      {
+        "id": "TwLJkYbAgvU",
+        "name": "The Interest Of Time",
+        "artists": "Dawes",
+        "credited": [
+          {
+            "name": "Dawes",
+            "id": "UCMClLcNNAstOzMpNIbNvUUg"
+          }
+        ],
+        "album": "The Interest Of Time",
+        "album_id": "MPREb_u6w5SR8fj99",
+        "cover": "https://i.ytimg.com/vi/McfIKpDFXNo/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kWt1xC5hAJyNwKadGzvWjRUCpkeA",
+        "seconds": 396.0,
+        "explicit": false
+      },
+      {
+        "id": "xbzk9R2b6Ww",
+        "name": "Block Universe",
+        "artists": "M Field",
+        "credited": [
+          {
+            "name": "M Field",
+            "id": "UCNrHWEyG90zAVyj-lcKE5lQ"
+          }
+        ],
+        "album": "Block Universe",
+        "album_id": "MPREb_VNRiglwe2M6",
+        "cover": "https://i.ytimg.com/vi/nUkqCgCbLHU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nEkVFHm13iyqV3vaH_IE0UBloIeg",
+        "seconds": 221.0,
+        "explicit": false
+      },
+      {
+        "id": "EHCOPJefRfA",
+        "name": "Victoria Bigelow - Oblivion (official video)",
+        "artists": "Victoria Bigelow",
+        "credited": [
+          {
+            "name": "Victoria Bigelow",
+            "id": "UCY0rEyzFMUiAFMpH7fQMhEQ"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/EHCOPJefRfA/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3n2pc-zDWsW4qlg9F7usDmTSZMaZQ",
+        "seconds": 219.0,
+        "explicit": false
+      },
+      {
+        "id": "lbTwIQZJQ1U",
+        "name": "I Won't",
+        "artists": "SOHN",
+        "credited": [
+          {
+            "name": "SOHN",
+            "id": "UCxfkNV9JrzyyGFYRgZ8_F4A"
+          }
+        ],
+        "album": "I Won't",
+        "album_id": "MPREb_n0XFach7XTj",
+        "cover": "https://i.ytimg.com/vi/QpkxSO7DJww/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lwFbAYWcthLjjYnUOScCPL8wH4yg",
+        "seconds": 172.0,
+        "explicit": false
+      },
+      {
+        "id": "BC5SgTsqVk8",
+        "name": "Furniture",
+        "artists": "Riley Pearce",
+        "credited": [
+          {
+            "name": "Riley Pearce",
+            "id": "UCX_O41X410QGstANcGJXQsQ"
+          }
+        ],
+        "album": "Furniture",
+        "album_id": "MPREb_48bGXRn1maM",
+        "cover": "https://i.ytimg.com/vi/3pu3-nDg9nU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nwvRsrJF0Klor8WZyk4iqSb3qy2w",
+        "seconds": 195.0,
+        "explicit": false
+      },
+      {
+        "id": "G4rtRClyK4k",
+        "name": "Jericho Beach",
+        "artists": "Tommy Lefroy",
+        "credited": [
+          {
+            "name": "Tommy Lefroy",
+            "id": "UCuPxuSKsxb-H8UHpmHj5kAw"
+          }
+        ],
+        "album": "Jericho Beach",
+        "album_id": "MPREb_mSojWwax2rb",
+        "cover": "https://i.ytimg.com/vi/XsvidSYIuW0/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k20pvk2U2pRXgF6Lujvqf-3Fpgng",
+        "seconds": 177.0,
+        "explicit": false
+      },
+      {
+        "id": "V1l1qLLXhp4",
+        "name": "Pull Me to Pieces",
+        "artists": "meija",
+        "credited": [
+          {
+            "name": "meija",
+            "id": "UCijBc0ku9CinZXOz8eYzzlw"
+          }
+        ],
+        "album": "Pull Me to Pieces",
+        "album_id": "MPREb_zkq8ALLduhk",
+        "cover": "https://i.ytimg.com/vi/aefqKzo5gdo/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lrQxJuLkDQszEMhhCY8FRhxFvk2A",
+        "seconds": 227.0,
+        "explicit": false
+      },
+      {
+        "id": "hdymk-doHv0",
+        "name": "Two Worlds Apart",
+        "artists": "Francis Moon",
+        "credited": [
+          {
+            "name": "Francis Moon",
+            "id": "UCW58Bp1wFYnMzsZHkW81uFw"
+          }
+        ],
+        "album": "Two Worlds Apart",
+        "album_id": "MPREb_fQBqSEfCcmn",
+        "cover": "https://i.ytimg.com/vi/Tj7ikJQd78w/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nXp8p4c5d3QIQ89DbRT3I6W-AtMw",
+        "seconds": 208.0,
+        "explicit": false
+      },
+      {
+        "id": "Zi7PzouDaAk",
+        "name": "Uncertainty",
+        "artists": "Tow'rs",
+        "credited": [
+          {
+            "name": "Tow'rs",
+            "id": "UCnOdFkhUfAJZuMPVyMRNAKg"
+          }
+        ],
+        "album": "Joy Alchemy",
+        "album_id": "MPREb_j5a4E6kWxzX",
+        "cover": "https://i.ytimg.com/vi/U_PP61J5Ldc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kOa34lU2oH-B5QNDfzYeTY9O8IKg",
+        "seconds": 348.0,
+        "explicit": false
+      },
+      {
+        "id": "DPKy2yy3jXQ",
+        "name": "Everyone Is Wasted Here",
+        "artists": "Joe Hertler",
+        "credited": [
+          {
+            "name": "Joe Hertler",
+            "id": "UC8LpBaKRn7Su3gAMwNuo6TA"
+          }
+        ],
+        "album": "",
+        "cover": "https://i.ytimg.com/vi/DPKy2yy3jXQ/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3li-G55IoPb6WJWDvOWIGTXvVB6Ug",
+        "seconds": 191.0,
+        "explicit": false
+      },
+      {
+        "id": "J84j5hWZklg",
+        "name": "Sirens (Official Video)",
+        "artists": "Sunflower Thieves",
+        "credited": [
+          {
+            "name": "Sunflower Thieves",
+            "id": "UCCAal8T7VUd-VaxrB1O61RQ"
+          }
+        ],
+        "album": "Sirens",
+        "album_id": "MPREb_GHWiTNNYWeO",
+        "cover": "https://i.ytimg.com/vi/R5esmDgttUw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3neGSrR8M8d8yRqGMH53zw2XarBUw",
+        "seconds": 255.0,
+        "explicit": false
+      },
+      {
+        "id": "brUZaOsF4Z0",
+        "name": "Stranded (Acoustic / Audio)",
+        "artists": "Starcrawler",
+        "credited": [
+          {
+            "name": "Starcrawler",
+            "id": "UCjGdY77QNP2ckeqlYkOJrXw"
+          }
+        ],
+        "album": "She Said",
+        "album_id": "MPREb_xffl5ONWnqz",
+        "cover": "https://i.ytimg.com/vi/3bET0TAkEJw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l_DFG-lA07JuUvXNUtQaZ7wS0aeQ",
+        "seconds": 242.0,
+        "explicit": false
+      },
+      {
+        "id": "jbfHDfox6i0",
+        "name": "Florida",
+        "artists": "Junior Varsity",
+        "credited": [
+          {
+            "name": "Junior Varsity",
+            "id": "UCZ4FP6iyTa7N-ZaCeQQrPAw"
+          }
+        ],
+        "album": "Florida",
+        "album_id": "MPREb_1xIuLQ2oSqu",
+        "cover": "https://i.ytimg.com/vi/F6KUNJFcfBY/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nzAVKoBKpBeIBis6qCR_ZVFG1m9Q",
+        "seconds": 148.0,
+        "explicit": false
+      },
+      {
+        "id": "U4XcTEjxLDQ",
+        "name": "Love You Now",
+        "artists": "Trudy and the Romance",
+        "credited": [
+          {
+            "name": "Trudy and the Romance",
+            "id": "UCHboxPB02RkSxyznSklSvqQ"
+          }
+        ],
+        "album": "Love You Now",
+        "album_id": "MPREb_TxL7v0KQvys",
+        "cover": "https://i.ytimg.com/vi/oMnLw9Py6WU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3la7isioymWTKMLaShI0HnM3QgoOQ",
+        "seconds": 170.0,
+        "explicit": false
+      },
+      {
+        "id": "gJZC3Wo5EFo",
+        "name": "Circles",
+        "artists": "Sandrine St-Laurent",
+        "credited": [
+          {
+            "name": "Sandrine St-Laurent",
+            "id": "UCGeTGq2NM0XgjdnNM4yCAiw"
+          }
+        ],
+        "album": "Circles",
+        "album_id": "MPREb_XMsCSZ1jqeE",
+        "cover": "https://i.ytimg.com/vi/XpcCWrVqmpU/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3la25a_k32VwVSkkep2GswNKBB-Jw",
+        "seconds": 245.0,
+        "explicit": false
+      }
+    ]
+  },
+  "window": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 1920.0,
+    "height": 1080.0,
+    "maximized": true
+  },
+  "appearance": {
+    "theme": "dark",
+    "adaptive_theme": true,
+    "visualizer": true,
+    "icons": "lucide",
+    "rounding": "rounded",
+    "font_size": 14.0,
+    "transparent": false,
+    "transparency": 0.15,
+    "window_controls": true,
+    "controls_on_left": false,
+    "reduce_motion": "system",
+    "motion_pace": "base",
+    "battery_saver": "off",
+    "system_theme": "dark",
+    "theme_overrides": {
+      "background": null,
+      "foreground": null,
+      "border": null,
+      "muted": null,
+      "overlay": null,
+      "overlay_foreground": null,
+      "muted_foreground": null,
+      "secondary": null,
+      "secondary_hover": null,
+      "secondary_active": null,
+      "primary": null,
+      "primary_foreground": null,
+      "primary_hover": null,
+      "danger": null,
+      "danger_foreground": null,
+      "danger_hover": null,
+      "popover": null,
+      "popover_foreground": null,
+      "progress_bar": null,
+      "selection": null,
+      "sidebar": null,
+      "sidebar_accent": null,
+      "sidebar_border": null,
+      "title_bar_border": null,
+      "table_head": null,
+      "table_head_foreground": null,
+      "table_row_border": null,
+      "table_hover": null,
+      "table_active": null,
+      "table_active_border": null,
+      "radius": null,
+      "font_size": null
+    }
+  }
+}

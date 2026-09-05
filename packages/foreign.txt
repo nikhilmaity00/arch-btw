@@ -1,0 +1,7 @@
+chatgpt-desktop
+google-chrome
+hyprmoncfg
+kdeconnect-git
+microsoft-edge-stable-bin
+sonora-bin
+vscodium-bin
