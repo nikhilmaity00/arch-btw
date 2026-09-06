@@ -3,7 +3,7 @@
 hl.monitor({
   output = "desc:Chimei Innolux Corporation 0x14D4",
   mode = "1920x1080@60.01",
-  position = "0x-1080",
+  position = "0x216",
   scale = 1,
   sdr_min_luminance = 0.2,
   sdr_max_luminance = 80,
@@ -12,19 +12,20 @@ hl.monitor({
 hl.monitor({
   output = "desc:LG Electronics LG FULL HD 0x01010101",
   mode = "1920x1080@74.97",
-  position = "0x-2160",
+  position = "0x216",
   scale = 1,
   sdr_min_luminance = 0.2,
   sdr_max_luminance = 80,
+  mirror = "desc:Chimei Innolux Corporation 0x14D4",
 })
 
-hl.workspace_rule({ workspace = "1", monitor = "desc:LG Electronics LG FULL HD 0x01010101", default = true, persistent = true })
-hl.workspace_rule({ workspace = "2", monitor = "desc:Chimei Innolux Corporation 0x14D4", default = true, persistent = true })
-hl.workspace_rule({ workspace = "3", monitor = "desc:LG Electronics LG FULL HD 0x01010101" })
+hl.workspace_rule({ workspace = "1", monitor = "desc:Chimei Innolux Corporation 0x14D4", default = true, persistent = true })
+hl.workspace_rule({ workspace = "2", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
+hl.workspace_rule({ workspace = "3", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
 hl.workspace_rule({ workspace = "4", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
-hl.workspace_rule({ workspace = "5", monitor = "desc:LG Electronics LG FULL HD 0x01010101" })
+hl.workspace_rule({ workspace = "5", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
 hl.workspace_rule({ workspace = "6", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
-hl.workspace_rule({ workspace = "7", monitor = "desc:LG Electronics LG FULL HD 0x01010101" })
+hl.workspace_rule({ workspace = "7", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
 hl.workspace_rule({ workspace = "8", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
-hl.workspace_rule({ workspace = "9", monitor = "desc:LG Electronics LG FULL HD 0x01010101" })
+hl.workspace_rule({ workspace = "9", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
 hl.workspace_rule({ workspace = "10", monitor = "desc:Chimei Innolux Corporation 0x14D4" })
