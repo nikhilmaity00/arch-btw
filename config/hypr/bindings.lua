@@ -41,3 +41,9 @@ hl.unbind("SUPER + ALT + SLASH")
 o.bind("SUPER + SLASH", "Monitor scaling up", "/home/nikhil/.config/omarchy/plugins/im0001gt.screens/scripts/display-ctl scale up")
 o.bind("SUPER + ALT + SLASH", "Monitor scaling down", "/home/nikhil/.config/omarchy/plugins/im0001gt.screens/scripts/display-ctl scale down")
 -- END im0001gt.screens
+
+-- Media playback controls
+o.bind("ALT + x", "Toggle play/pause", "playerctl play-pause")
+o.bind("ALT + c", "Next media track", "playerctl next")
+o.bind("ALT + z", "Previous media track", "playerctl previous")
+-- o.bind("SUPER + ALT + DOWN", "Stop playback", "playerctl stop")

@@ -111,6 +111,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+playerctl
 plocate
 postgresql-libs
 power-profiles-daemon
@@ -151,6 +152,7 @@ ufw-docker
 usage
 uwsm
 vlc
+vlc-plugins-all
 voxtype-bin
 vscodium-bin
 vulkan-intel

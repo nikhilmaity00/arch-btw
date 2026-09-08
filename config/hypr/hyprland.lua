@@ -38,9 +38,24 @@ require("hypr.autostart")
 -- Toggle config flags dynamically.
 require("default.hypr.toggles")
 
--- Add any other personal Hyprland configuration below.
--- o.window("qemu", { workspace = "5" })
+-- Force workspace monitor mapping (native declarative table)
+workspace = workspace or {}
+local laptop = "eDP-1"
+local ext_mon = "desc:LG Electronics LG FULL HD 0x01010101"
 
+for i = 1, 10 do
+  local target = (i % 2 == 1) and laptop or ext_mon
+  table.insert(workspace, string.format("%d, monitor:%s", i, target))
+end
 
 -- Load settings written by OmaSettings (omasettings:managed).
 require("hypr.omasettings")
+
+-- Picture-in-Picture window rules
+windowrulev2 = {
+    "float, title:^(Picture-in-Picture|Picture in picture)$",
+    "pin, title:^(Picture-in-Picture|Picture in picture)$",
+    "keepaspectratio, title:^(Picture-in-Picture|Picture in picture)$",
+    "size 25% 25%, title:^(Picture-in-Picture|Picture in picture)$",
+    "move 73% 72%, title:^(Picture-in-Picture|Picture in picture)$",
+}

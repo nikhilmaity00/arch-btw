@@ -72,3 +72,9 @@ hl.gesture({
   direction = "horizontal",
   action = "workspace"
 })
+
+hl.config({
+  input = {
+    numlock_by_default = false,
+  },
+})

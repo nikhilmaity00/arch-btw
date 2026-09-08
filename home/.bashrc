@@ -9,7 +9,8 @@
 source "$OMARCHY_PATH/default/bash/rc"
 
 # Add your own exports, aliases, and functions here.
-#
+# Use the systemd-managed SSH agent
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 # Make an alias for invoking commands you use constantly
 # alias p='python'
 
