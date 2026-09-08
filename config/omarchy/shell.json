@@ -1,0 +1,222 @@
+{
+  "bar": {
+    "centerAnchor": "omarchy.clock",
+    "layout": {
+      "center": [],
+      "left": [
+        {
+          "id": "omarchy.menu"
+        },
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "format": "dddd HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "omarchy.system-update"
+        },
+        {
+          "id": "omarchy.workspaces"
+        }
+      ],
+      "right": [
+        {
+          "hidden": [],
+          "id": "io.github.tyrichards.tray",
+          "order": [
+            "pretty.omagen",
+            "crmne.hyprmoncfg",
+            "omarchy.monitor",
+            "omamail",
+            "io.github.twiking.omasettings",
+            "hancore.bongocat",
+            "omarchy.agents",
+            "jesseburlamaque.omarchy-find",
+            "stappmus.activity-monitor",
+            "omarchy.tray",
+            "chrome_status_icon_1"
+          ],
+          "widgets": [
+            {
+              "entry": {
+                "id": "pretty.omagen"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "stappmus.activity-monitor",
+                "openExpanded": true,
+                "samplingSpeed": "Fast"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "crmne.hyprmoncfg"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "omamail"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "omarchy.agents"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "omarchy.monitor"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "io.github.twiking.omasettings"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "active": true,
+                "catWidth": 280,
+                "colorMode": "theme",
+                "customColor": "#f0abab",
+                "id": "hancore.bongocat",
+                "keyboardName": "",
+                "keypressDuration": 105,
+                "monitorName": "",
+                "positionLocked": true,
+                "positionX": 810,
+                "positionY": 963,
+                "workspaceId": 0
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "jesseburlamaque.omarchy-find"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "omarchy.tray"
+              },
+              "listed": true
+            }
+          ]
+        },
+        {
+          "id": "hancore.voxtype-enhance"
+        },
+        {
+          "id": "omaplug"
+        },
+        {
+          "id": "io.github.ctl0v0.keybinding-guide"
+        },
+        {
+          "id": "agx.screen-time"
+        },
+        {
+          "id": "jankeesvw.notification-center"
+        },
+        {
+          "id": "omaconnect"
+        },
+        {
+          "id": "omarchy.bluetooth"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.power",
+          "showPercentage": true
+        }
+      ]
+    },
+    "position": "top",
+    "transparent": false
+  },
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "bobbynicholas.omaland"
+    },
+    {
+      "id": "mirador"
+    },
+    {
+      "id": "pretty.omagen"
+    },
+    {
+      "historySamples": 30,
+      "id": "stappmus.activity-monitor",
+      "openExpanded": true,
+      "samplingSpeed": "Fast"
+    },
+    {
+      "id": "crmne.hyprmoncfg"
+    },
+    {
+      "id": "omamail"
+    },
+    {
+      "id": "omarchy.agents"
+    },
+    {
+      "id": "omarchy.monitor"
+    },
+    {
+      "id": "io.github.twiking.omasettings"
+    },
+    {
+      "active": true,
+      "catWidth": 140,
+      "colorMode": "default",
+      "customColor": "#f0abab",
+      "id": "hancore.bongocat",
+      "keyboardName": "",
+      "keypressDuration": 40,
+      "monitorName": "",
+      "positionLocked": true,
+      "positionX": 1780,
+      "positionY": 1022,
+      "workspaceId": 0
+    },
+    {
+      "id": "jesseburlamaque.omarchy-find"
+    },
+    {
+      "hidden": [
+        "chrome_status_icon_1"
+      ],
+      "id": "omarchy.tray",
+      "pinned": []
+    }
+  ],
+  "version": 1
+}
