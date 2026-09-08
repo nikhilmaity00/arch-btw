@@ -65,6 +65,8 @@ copy_dir "$HOME_DIR/.config/nvim" "$REPO_DIR/config/nvim"
 
 copy_file "$HOME_DIR/.config/omarchy/omasettings.json" "$REPO_DIR/config/omarchy/omasettings.json"
 copy_file "$HOME_DIR/.config/omarchy/shell.toml" "$REPO_DIR/config/omarchy/shell.toml"
+copy_file "$HOME_DIR/.config/systemd/user/omarchy-backup.service" "$REPO_DIR/config/systemd/user/omarchy-backup.service"
+copy_file "$HOME_DIR/.config/systemd/user/omarchy-backup.timer" "$REPO_DIR/config/systemd/user/omarchy-backup.timer"
 copy_dir "$HOME_DIR/.config/omarchy/themes/porshe-959" "$REPO_DIR/config/omarchy/themes/porshe-959"
 
 printf '\n===== UPDATING PACKAGE LISTS =====\n'

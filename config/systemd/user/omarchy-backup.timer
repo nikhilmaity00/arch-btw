@@ -1,0 +1,10 @@
+[Unit]
+Description=Run Omarchy configuration backup every 30 minutes
+
+[Timer]
+OnBootSec=10min
+OnUnitActiveSec=30min
+Unit=omarchy-backup.service
+
+[Install]
+WantedBy=timers.target

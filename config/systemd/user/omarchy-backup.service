@@ -1,0 +1,7 @@
+[Unit]
+Description=Backup Omarchy configuration to GitHub
+
+[Service]
+Type=oneshot
+ExecStart=%h/omarchy-backup/backup.sh
+WorkingDirectory=%h/omarchy-backup
