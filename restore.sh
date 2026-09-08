@@ -14,7 +14,7 @@ Usage:
   ./restore.sh packages
   ./restore.sh plugins
   ./restore.sh systemd
-  ./restore.sh all
+  ./restore.sh all --confirm
 
 Stages:
   prepare   Verify the environment and create the safety-backup directory.
@@ -124,6 +124,9 @@ restore_dir() {
     }
 
     backup_existing "$dst"
+
+    [[ "$dst" == "$HOME_DIR/.config/"* ]] ||
+        die "Refusing to remove destination outside ~/.config: $dst"
 
     rm -rf -- "$dst"
     mkdir -p "$dst"
@@ -343,6 +346,8 @@ main() {
             restore_systemd
             ;;
         all)
+            [[ "${2:-}" == "--confirm" && -z "${3:-}" ]] ||
+                die "The all restore requires explicit confirmation: ./restore.sh all --confirm"
             verify_environment
             prepare_safety_dir
             restore_configs
