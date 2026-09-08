@@ -77,6 +77,29 @@ pacman -Qqem | sort > "$REPO_DIR/packages/foreign.txt"
 printf 'OK   packages/explicit.txt\n'
 printf 'OK   packages/foreign.txt\n'
 
+printf '\n===== UPDATING PLUGIN MANIFEST =====\n'
+
+plugin_list="$(omarchy plugin list 2>/dev/null || true)"
+
+{
+    printf '# Omarchy third-party plugins\n'
+    printf '# ID<TAB>STATE<TAB>GIT_URL\n'
+
+    for plugin_dir in "$HOME_DIR/.config/omarchy/plugins"/*; do
+        [[ -d "$plugin_dir" ]] || continue
+
+        plugin_id="$(basename "$plugin_dir")"
+        plugin_url="$(git -C "$plugin_dir" remote get-url origin 2>/dev/null || true)"
+
+        [[ -n "$plugin_url" ]] || continue
+
+        plugin_state="$(printf '%s\n' "$plugin_list" | awk -v id="$plugin_id" '$1 == id {print $2; exit}' || true)"
+        printf '%s\t%s\t%s\n' "$plugin_id" "${plugin_state:-unknown}" "$plugin_url"
+    done
+} > "$REPO_DIR/plugins.txt"
+
+printf 'OK   plugins.txt\n'
+
 printf '\n===== STAGING =====\n'
 
 git add -A

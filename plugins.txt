@@ -1,0 +1,20 @@
+# Omarchy third-party plugins
+# ID<TAB>STATE<TAB>GIT_URL
+agx.screen-time	enabled	https://github.com/ax1g/quickshell-screentime-plugin.git
+bobbynicholas.omaland	enabled	https://github.com/bobby-nicholas/omaland.git
+crmne.hyprmoncfg	disabled	https://github.com/crmne/omarchy-hyprmoncfg.git
+gladimdim.config-sync	disabled	https://github.com/gladimdim/omarchy-config-sync-plugin.git
+hancore.bongocat	disabled	https://github.com/HANCORE-linux/omarchy-bongocat.git
+hancore.voxtype-enhance	enabled	https://github.com/iamcheyan/omarchy-voxtype-enhance.git
+im0001gt.screens	disabled	https://github.com/IM0001GT/omarchy-screens.git
+io.github.ctl0v0.keybinding-guide	enabled	https://github.com/ctl0v0/omarchy-keybinding-guide.git
+io.github.twiking.omasettings	disabled	https://github.com/twiking/omasettings.git
+io.github.tyrichards.tray	enabled	https://github.com/TyRichards/omarchy-tray.git
+jankeesvw.notification-center	enabled	https://github.com/jankeesvw/omarchy-notification-center.git
+jesseburlamaque.omarchy-find	disabled	https://github.com/jesseburlamaque/omarchy-find.git
+mirador	enabled	https://github.com/sanjyay/Mirador.git
+omaconnect	enabled	https://github.com/jitendradara12/omaconnect.git
+omamail	disabled	https://github.com/huacnlee/omamail.git
+omaplug	enabled	https://github.com/fross100/omaplug.git
+pretty.omagen	disabled	https://github.com/prettyletto/omagen.git
+stappmus.activity-monitor	disabled	https://github.com/stappmus/omarchy-activity-monitor.git
