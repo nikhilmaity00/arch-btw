@@ -31,8 +31,8 @@
       ],
       "right": [
         {
-          "hidden": [],
           "id": "io.github.tyrichards.tray",
+          "hidden": [],
           "order": [
             "pretty.omagen",
             "crmne.hyprmoncfg",
@@ -120,7 +120,8 @@
               },
               "listed": true
             }
-          ]
+          ],
+          "showTrayIcons": true
         },
         {
           "id": "hancore.voxtype-enhance"
