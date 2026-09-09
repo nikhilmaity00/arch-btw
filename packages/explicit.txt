@@ -130,6 +130,7 @@ socat
 sof-firmware
 sonora-bin
 starship
+stirling-pdf-desktop
 sudo
 sushi
 system-config-printer

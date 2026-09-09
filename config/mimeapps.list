@@ -7,6 +7,9 @@ x-scheme-handler/unknown=microsoft-edge.desktop
 x-scheme-handler/mailto=microsoft-edge.desktop
 x-scheme-handler/codex=chatgpt.desktop
 application/json=codium.desktop
+x-scheme-handler/stirlingpdf=Stirling-PDF-handler.desktop
+application/pdf=Stirling PDF.desktop
 
 [Added Associations]
 application/json=codium.desktop;
+application/pdf=Stirling PDF.desktop;
