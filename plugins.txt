@@ -8,6 +8,7 @@ hancore.bongocat	disabled	https://github.com/HANCORE-linux/omarchy-bongocat.git
 hancore.voxtype-enhance	enabled	https://github.com/iamcheyan/omarchy-voxtype-enhance.git
 im0001gt.screens	disabled	https://github.com/IM0001GT/omarchy-screens.git
 io.github.ctl0v0.keybinding-guide	enabled	https://github.com/ctl0v0/omarchy-keybinding-guide.git
+io.github.omarcodehub.plugin-manager	enabled	https://github.com/OmarCodeHub/omarchy-marketplace.git
 io.github.twiking.omasettings	disabled	https://github.com/twiking/omasettings.git
 io.github.tyrichards.tray	enabled	https://github.com/TyRichards/omarchy-tray.git
 jankeesvw.notification-center	enabled	https://github.com/jankeesvw/omarchy-notification-center.git

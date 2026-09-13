@@ -124,6 +124,9 @@
           "showTrayIcons": true
         },
         {
+          "id": "io.github.omarcodehub.plugin-manager"
+        },
+        {
           "id": "hancore.voxtype-enhance"
         },
         {
