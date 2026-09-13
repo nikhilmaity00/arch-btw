@@ -9,7 +9,9 @@ x-scheme-handler/codex=chatgpt.desktop
 application/json=codium.desktop
 x-scheme-handler/stirlingpdf=Stirling-PDF-handler.desktop
 application/pdf=Stirling PDF.desktop
+video/matroska=vlc.desktop
 
 [Added Associations]
 application/json=codium.desktop;
 application/pdf=Stirling PDF.desktop;
+video/matroska=vlc.desktop;
